@@ -8,6 +8,10 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
+  /* Achtergrondafbeelding toevoegen */
+  background-image: url('image55.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 header {
@@ -50,3 +54,4 @@ section {
 }
 
 /* Add more styles as needed */
+
