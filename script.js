@@ -1,4 +1,4 @@
-\// Voeg een klasse toe aan de navigatie bij scrollen
+\// deze code is om een scroller toe te voegen maar de websitepagina's zijn niet lang genoeg om dat te laten werkne
 window.addEventListener('scroll', function() {
   const header = document.querySelector('header');
   if (window.scrollY > 100) {
